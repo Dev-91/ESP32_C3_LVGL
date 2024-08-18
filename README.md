@@ -2,8 +2,15 @@
 
 ## Description
 
-ESP32-C3 super mini board
+ESP32-C3 super mini board  
 ST7789
+
+---
+
+## Components
+
+[esp_lvgl_port](https://components.espressif.com/components/espressif/esp_lvgl_port)  
+[LVGL](https://components.espressif.com/components/lvgl/lvgl)
 
 ---
 
